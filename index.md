@@ -1,7 +1,7 @@
 # [Click to connect to server]
 [Click to connect to server]: steam://connect/mlg.gamergod.net:28748/mlg
 `connect mlg.gamergod.net:28748; password mlg`
-### [Click to connect to mumble]
+### [click to connect to mumble]
 [click to connect to mumble]: mumble://hellacharisma.mumble.com:7975/?version=1.3.3
 ### [level list]
 [level list]: https://steamcommunity.com/sharedfiles/filedetails/?id=796751913
