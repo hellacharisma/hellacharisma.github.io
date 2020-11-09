@@ -41,3 +41,14 @@ Example: for `steamcommunity.com/sharedfiles/filedetails/?id=125689526` you'd do
   - Newest demo should be at the bottom of the list
   
 **[WARNING] - Demos will be deleted automatically after 14 days**
+
+## How to connect to mumble
+- Download mumble [here](https://www.mumble.info/downloads/)
+- Opening mumble will bring you to a server list, click "Add New.."
+- Enter server information like this...
+```
+Address: hellacharisma.mumble.com
+Port: 7975
+Username: whatever-you-want
+Label: whatever-you-want
+```
