@@ -28,7 +28,6 @@
 [>>Level list<<]: https://steamcommunity.com/sharedfiles/filedetails/?id=796751913
 [level list]: https://steamcommunity.com/sharedfiles/filedetails/?id=796751913
 
-
 &nbsp;
 
 &nbsp;
@@ -44,31 +43,6 @@
 &nbsp;
 
 &nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 
 ## How do I set up a 10 man?
 - Type `!setup` in chat asdf asdf
