@@ -1,7 +1,7 @@
 <iframe style="float: left;" src="https://cache.gametracker.com/components/html0/?host=172.107.198.106:28748&bgColor=373e28&fontColor=d2e1b5&titleBgColor=2e3225&titleColor=ffffff&borderColor=3e4433&linkColor=889c63&borderLinkColor=828e6b&showMap=0&showCurrPlayers=0&topPlayersHeight=100&showTopPlayers=1&showBlogs=0&width=240" frameborder="0" scrolling="no" width="240" height="388"></iframe>
 
-# [>>Click to connect to server<<]
-[>>Click to connect to server<<]: steam://connect/mlg.gamergod.net:28748/mlg
+# [   >>Click to connect to server<<]
+[   >>Click to connect to server<<]: steam://connect/mlg.gamergod.net:28748/mlg
 
 or `connect mlg.gamergod.net:28748; password mlg` in console
 
