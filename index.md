@@ -2,6 +2,12 @@
 
 <pre style="float: center; width: 20px;" >
 
+# &nbsp;&nbsp;[>>Click to connect to server<<]
+
+</pre>
+
+<pre style="float: right;" >
+
 
 
 </pre>
