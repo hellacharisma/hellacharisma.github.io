@@ -2,15 +2,13 @@
 
 <pre style="float: center; width: 20px;" >
 
-# &nbsp;&nbsp;[>>Click to connect to server<<]
-
 </pre>
 
-<pre style="float: right;" >
+<div style="float: right;" >
 
+Test test test
 
-
-</pre>
+</div>
 
 # &nbsp;&nbsp;[>>Click to connect to server<<]
 [>>Click to connect to server<<]: steam://connect/mlg.gamergod.net:28748/mlg
