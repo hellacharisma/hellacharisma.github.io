@@ -1,8 +1,8 @@
-title: Hella Charisma
 locale: en_US
-logo: # filename of a logo image that has been placed into your images directory
-
-github:
-  is_project_page: false
 
 theme: jekyll-theme-hacker
+
+name: Stuff
+title: Hella Charisma
+github:
+  is_project_page: false
