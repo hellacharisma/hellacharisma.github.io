@@ -34,16 +34,6 @@
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 ## How do I set up a 10 man?
 - Type `!setup` in chat
 
