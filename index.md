@@ -8,6 +8,9 @@
 
 </div>
 
+# &nbsp;&nbsp;[>>Click to connect to server<<]
+[>>Click to connect to server<<]: steam://connect/mlg.gamergod.net:28748/mlg
+
 <div style="float: right;" >
 
 # &nbsp;&nbsp;[>>Click to connect to server<<]
