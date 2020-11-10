@@ -1,7 +1,7 @@
 # [>>Click to connect to server<<]
 [>>Click to connect to server<<]: steam://connect/mlg.gamergod.net:28748/mlg
 
-Or paste this into console `connect mlg.gamergod.net:28748; password mlg`
+or put in console `connect mlg.gamergod.net:28748; password mlg`
 
 <a href="https://www.gametracker.com/server_info/172.107.198.106:28748/" target="_blank"><img src="https://cache.gametracker.com/server_info/172.107.198.106:28748/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
 
