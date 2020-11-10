@@ -1,10 +1,10 @@
 # [>>Click to connect to server<<]
 [>>Click to connect to server<<]: steam://connect/mlg.gamergod.net:28748/mlg
-`connect mlg.gamergod.net:28748; password mlg`
-### [>>click to connect to mumble<<]
+# [>>Click to connect to mumble<<]
 [>>click to connect to mumble<<]: mumble://hellacharisma.mumble.com:7975/?version=1.2.0
 ### [level list]
 [level list]: https://steamcommunity.com/sharedfiles/filedetails/?id=796751913
+`connect mlg.gamergod.net:28748; password mlg`
 
 ## How do I set up a 10 man?
 - Type `!setup` in chat
