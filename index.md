@@ -6,7 +6,8 @@
 ### [>>Click to connect to mumble<<]
 [>>click to connect to mumble<<]: mumble://hellacharisma.mumble.com:7975/?version=1.2.0
 ### [>>Level list<<]
-[>>level list<<]: https://steamcommunity.com/sharedfiles/filedetails/?id=796751913
+[>>Level list<<]: https://steamcommunity.com/sharedfiles/filedetails/?id=796751913
+[level list]: https://steamcommunity.com/sharedfiles/filedetails/?id=796751913
 
 ## How do I set up a 10 man?
 - Type `!setup` in chat
