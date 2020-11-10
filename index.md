@@ -18,7 +18,7 @@
 &nbsp;
 &nbsp;
 
-<pre>
+<pre style="float: center; width: 400px;" >
 
 
 
