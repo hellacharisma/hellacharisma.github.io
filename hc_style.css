@@ -1,0 +1,15 @@
+.hc_group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.hc_text {
+  float: left;
+  width: 70%;
+}
+
+.hc_images {
+  float: left;
+  width: 30%;
+}
