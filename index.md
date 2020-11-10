@@ -73,7 +73,7 @@
 </div>
 
 ## How do I set up a 10 man?
-- Type `!setup` in chat
+- Type `!setup` in chat asdf
 
 ## How do I change levels?
 - `rcon_password mlg` in console
