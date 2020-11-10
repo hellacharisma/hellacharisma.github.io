@@ -6,6 +6,8 @@ Some text here
 more text
 test
 
+<a href="https://www.gametracker.com/server_info/172.107.198.106:28748/" target="_blank"><img src="https://cache.gametracker.com/server_info/172.107.198.106:28748/b_160_400_0_ffffff_c5c5c5_ff9900_000000_0_0_1.png" border="0" width="160" height="264" alt=""/></a>
+
 <img style="float: right;" src="whatever.jpg">
 
 # [>>Click to connect to server<<]
