@@ -28,7 +28,7 @@ or `connect mlg.gamergod.net:28662; password mlg` in console
 [>>Level list<<]: https://steamcommunity.com/sharedfiles/filedetails/?id=796751913
 [level list]: https://steamcommunity.com/sharedfiles/filedetails/?id=796751913
 
-<pre>
+<pre style="font-size: 10px;">
 $$\   $$\           $$\ $$\                  $$$$$$\  $$\                           $$\                                   
 $$ |  $$ |          $$ |$$ |                $$  __$$\ $$ |                          \__|                                  
 $$ |  $$ | $$$$$$\  $$ |$$ | $$$$$$\        $$ /  \__|$$$$$$$\   $$$$$$\   $$$$$$\  $$\  $$$$$$$\ $$$$$$\$$$$\   $$$$$$\  
