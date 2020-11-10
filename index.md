@@ -3,9 +3,9 @@
 
 `connect mlg.gamergod.net:28748; password mlg`
 
-# [>>Click to connect to mumble<<]
+### [>>Click to connect to mumble<<]
 [>>click to connect to mumble<<]: mumble://hellacharisma.mumble.com:7975/?version=1.2.0
-# [>>Level list<<]
+### [>>Level list<<]
 [>>level list<<]: https://steamcommunity.com/sharedfiles/filedetails/?id=796751913
 
 ## How do I set up a 10 man?
