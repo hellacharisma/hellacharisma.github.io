@@ -2,7 +2,7 @@ locale: en_US
 
 theme: jekyll-theme-hacker
 
-name: Stuff
-title: Hella Charisma
+name: Hella Charisma
+title: null
 github:
   is_project_page: false
