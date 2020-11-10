@@ -39,12 +39,6 @@
 &nbsp;
 &nbsp;
 
-<pre style="float: center; width: 20px;" >
-
-
-
-</pre>
-
 ## How do I set up a 10 man?
 - Type `!setup` in chat
 
