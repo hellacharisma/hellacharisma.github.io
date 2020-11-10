@@ -1,4 +1,4 @@
-<iframe style="float: left;" src="https://cache.gametracker.com/components/html0/?host=104.217.248.90:28662&bgColor=333333&fontColor=cccccc&titleBgColor=222222&titleColor=ff9900&borderColor=555555&linkColor=ffcc00&borderLinkColor=222222&showMap=0&showCurrPlayers=0&topPlayersHeight=150&showTopPlayers=1&showBlogs=0&width=240" frameborder="0" scrolling="no" width="280" height="338"></iframe>
+<iframe style="float: left;" src="https://cache.gametracker.com/components/html0/?host=104.217.248.90:28662&bgColor=333333&fontColor=cccccc&titleBgColor=222222&titleColor=ff9900&borderColor=555555&linkColor=ffcc00&borderLinkColor=222222&showMap=0&showCurrPlayers=0&topPlayersHeight=150&showTopPlayers=1&showBlogs=0&width=240" frameborder="0" scrolling="no" width="265" height="338"></iframe>
 
 <div>
 
@@ -11,7 +11,7 @@
 # [>>Click to connect to server<<]
 [>>Click to connect to server<<]: steam://connect/mlg.gamergod.net:28662/mlg
 
-&nbsp; or `connect mlg.gamergod.net:28662; password mlg` in console
+or `connect mlg.gamergod.net:28662; password mlg` in console
 
 <div>
 
