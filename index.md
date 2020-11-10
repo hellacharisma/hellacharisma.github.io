@@ -1,8 +1,3 @@
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-<a href="https://www.gametracker.com/server_info/172.107.198.106:28748/" target="_blank"><imgsrc="https://cache.gametracker.com/server_info/172.107.198.106:28748/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a> | Content in the second column
-
 # [>>Click to connect to server<<]
 [>>Click to connect to server<<]: steam://connect/mlg.gamergod.net:28748/mlg
 
