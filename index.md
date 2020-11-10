@@ -10,7 +10,8 @@
 
 <div style="float: right;" >
 
-Test test test
+# &nbsp;&nbsp;[>>Click to connect to server<<]
+[>>Click to connect to server<<]: steam://connect/mlg.gamergod.net:28748/mlg
 
 </div>
 
@@ -25,8 +26,7 @@ Test test test
 &nbsp;
 &nbsp;
 
-# &nbsp;&nbsp;[>>Click to connect to server<<]
-[>>Click to connect to server<<]: steam://connect/mlg.gamergod.net:28748/mlg
+
 
 &nbsp;&nbsp; or `connect mlg.gamergod.net:28748; password mlg` in console
 
