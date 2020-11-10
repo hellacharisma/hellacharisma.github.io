@@ -28,11 +28,17 @@
 [>>Level list<<]: https://steamcommunity.com/sharedfiles/filedetails/?id=796751913
 [level list]: https://steamcommunity.com/sharedfiles/filedetails/?id=796751913
 
+<div>
+
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
+
+</div>
 
 ## How do I set up a 10 man?
 - Type `!setup` in chat
