@@ -2,11 +2,11 @@
 
 <div class="hc_group">
   <div class="hc_text">
-    Your text here
+    <b>This text is bold</b>
   </div>
 
   <div class="hc_images">
-    Your text here
+    <b>This text is bold</b>
   </div>
 </div>
 
