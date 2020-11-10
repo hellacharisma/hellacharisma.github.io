@@ -8,7 +8,7 @@
 
 </div>
 
-# &nbsp;&nbsp;[>>Click to connect to server<<]
+# &nbsp;[>>Click to connect to server<<]
 [>>Click to connect to server<<]: steam://connect/mlg.gamergod.net:28748/mlg
 
 <div>
@@ -19,12 +19,12 @@
 
 </div>
 
-&nbsp;&nbsp;&nbsp; or `connect mlg.gamergod.net:28748; password mlg` in console
+&nbsp;&nbsp; or `connect mlg.gamergod.net:28748; password mlg` in console
 
-### &nbsp;&nbsp;&nbsp;[>>Click to connect to mumble<<]
+### &nbsp;&nbsp;[>>Click to connect to mumble<<]
 [>>click to connect to mumble<<]: mumble://hellacharisma.mumble.com:7975/?version=1.2.0
 
-### &nbsp;&nbsp;&nbsp;[>>Level list<<]
+### &nbsp;&nbsp;[>>Level list<<]
 [>>Level list<<]: https://steamcommunity.com/sharedfiles/filedetails/?id=796751913
 [level list]: https://steamcommunity.com/sharedfiles/filedetails/?id=796751913
 
