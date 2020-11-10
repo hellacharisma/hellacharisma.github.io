@@ -1,6 +1,6 @@
 <iframe style="float: left;" src="https://cache.gametracker.com/components/html0/?host=172.107.198.106:28748&bgColor=333333&fontColor=cccccc&titleBgColor=222222&titleColor=ff9900&borderColor=555555&linkColor=ffcc00&borderLinkColor=222222&showMap=0&showCurrPlayers=0&topPlayersHeight=150&showTopPlayers=1&showBlogs=0&width=240" frameborder="0" scrolling="no" width="240" height="338"></iframe>
 
-<div style="float: center;" >
+<div>
 
 &nbsp;
 &nbsp;
@@ -8,28 +8,23 @@
 
 </div>
 
-# [>>Click to connect to server<<]
+# &nbsp;&nbsp;[>>Click to connect to server<<]
 [>>Click to connect to server<<]: steam://connect/mlg.gamergod.net:28748/mlg
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+<div>
+
 &nbsp;
 &nbsp;
 &nbsp;
 
+</div>
 
+&nbsp;&nbsp;&nbsp; or `connect mlg.gamergod.net:28748; password mlg` in console
 
-&nbsp;&nbsp; or `connect mlg.gamergod.net:28748; password mlg` in console
-
-### &nbsp;&nbsp;[>>Click to connect to mumble<<]
+### &nbsp;&nbsp;&nbsp;[>>Click to connect to mumble<<]
 [>>click to connect to mumble<<]: mumble://hellacharisma.mumble.com:7975/?version=1.2.0
 
-### &nbsp;&nbsp;[>>Level list<<]
+### &nbsp;&nbsp;&nbsp;[>>Level list<<]
 [>>Level list<<]: https://steamcommunity.com/sharedfiles/filedetails/?id=796751913
 [level list]: https://steamcommunity.com/sharedfiles/filedetails/?id=796751913
 
