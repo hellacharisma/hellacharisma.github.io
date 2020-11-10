@@ -4,7 +4,7 @@
 [>>click to connect to mumble<<]: mumble://hellacharisma.mumble.com:7975/?version=1.2.0
 ## [>>Level list<<]
 [>>level list<<]: https://steamcommunity.com/sharedfiles/filedetails/?id=796751913
-`connect mlg.gamergod.net:28748; password mlg`
+Info: `connect mlg.gamergod.net:28748; password mlg`
 
 
 # FAQ
