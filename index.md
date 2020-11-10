@@ -1,16 +1,22 @@
 <iframe style="float: left;" src="https://cache.gametracker.com/components/html0/?host=172.107.198.106:28748&bgColor=333333&fontColor=cccccc&titleBgColor=222222&titleColor=ff9900&borderColor=555555&linkColor=ffcc00&borderLinkColor=222222&showMap=1&showCurrPlayers=0&topPlayersHeight=200&showTopPlayers=1&showBlogs=0&width=240" frameborder="0" scrolling="no" width="240" height="512"></iframe>
 
-#    [>>Click to connect to server<<]
+# &nbsp;&nbsp;[>>Click to connect to server<<]
 [>>Click to connect to server<<]: steam://connect/mlg.gamergod.net:28748/mlg
 
-or `connect mlg.gamergod.net:28748; password mlg` in console
+&nbsp;&nbsp; or `connect mlg.gamergod.net:28748; password mlg` in console
 
-### &nbsp;[>>Click to connect to mumble<<]
+### &nbsp;&nbsp;[>>Click to connect to mumble<<]
 [>>click to connect to mumble<<]: mumble://hellacharisma.mumble.com:7975/?version=1.2.0
 
-### [>>Level list<<]
+### &nbsp;&nbsp;[>>Level list<<]
 [>>Level list<<]: https://steamcommunity.com/sharedfiles/filedetails/?id=796751913
 [level list]: https://steamcommunity.com/sharedfiles/filedetails/?id=796751913
+
+<pre>
+
+
+
+</pre>
 
 ## How do I set up a 10 man?
 - Type `!setup` in chat
