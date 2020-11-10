@@ -17,7 +17,7 @@
 
 or `connect mlg.gamergod.net:28748; password mlg` in console
 
-<a style="float: right;" href="https://www.gametracker.com/server_info/172.107.198.106:28748/" target="_blank"><img src="https://cache.gametracker.com/server_info/172.107.198.106:28748/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
+<a style="float: right;" href="https://www.gametracker.com/server_info/172.107.198.106:28748/" target="_blank"><img style="float: right;" src="https://cache.gametracker.com/server_info/172.107.198.106:28748/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
 
 ### [>>Click to connect to mumble<<]
 [>>click to connect to mumble<<]: mumble://hellacharisma.mumble.com:7975/?version=1.2.0
