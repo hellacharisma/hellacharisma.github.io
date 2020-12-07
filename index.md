@@ -9,9 +9,9 @@
 </div>
 
 # [>>Click to connect to server<<]
-[>>Click to connect to server<<]: steam://connect/mlg.gamergod.net:28662/mlg
+[>>Click to connect to server<<]: steam://connect/mlg.gamergod.net:28679/mlg
 
-or `connect mlg.gamergod.net:28662; password mlg` in console
+or `connect mlg.gamergod.net:28679; password mlg` in console
 
 <div>
 
